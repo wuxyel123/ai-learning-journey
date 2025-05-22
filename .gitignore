@@ -1,0 +1,143 @@
+# =========================
+# Python
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a Python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# =========================
+# Obsidian
+# =========================
+
+# Ignore entire .obsidian folder except specific configuration files
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/config
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+
+# Ignore workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore plugins and snippets
+.obsidian/plugins/
+.obsidian/snippets/
+
+# Ignore Obsidian Git plugin data
+.obsidian-git-data
+
+# Ignore Day Planner plugin data
+Day*Planners/
+
+# Ignore Untitled notes and temporary files
+Untitled*
+null*
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Windows
+# =========================
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Linux
+# =========================
+
+*~
