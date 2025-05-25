@@ -1,6 +1,6 @@
 ## Vectors, Dot Products & Norms
 
-### 📐 1. Vectors in ℝⁿ
+### 1. Vectors in ℝⁿ
 
 #vector
 
@@ -17,7 +17,7 @@ Vectors are fundamental in AI for representing data points, weights in models, d
 
 ---
 
-### ✳️ 2. Dot Product
+### 2. Dot Product
 
 #DotProduct
 
@@ -42,7 +42,7 @@ The **dot product** (also known as the scalar product) is a way to multiply two 
     
     $$(k\mathbf{a}) \cdot \mathbf{b} = k(\mathbf{a} \cdot \mathbf{b})$$
 
-#### 🆕 Orthogonality:
+#### Orthogonality:
 
 - Vectors **a** and **b** are **orthogonal** if:
     
@@ -50,7 +50,7 @@ The **dot product** (also known as the scalar product) is a way to multiply two 
 - Orthogonality is essential in feature independence and dimensionality reduction.
     
 
-#### 🆕 Cosine of Angle Between Vectors:
+#### Cosine of Angle Between Vectors:
 
 - The **angle** θ between two vectors tells us their direction similarity:
     
@@ -63,7 +63,7 @@ The **dot product** (also known as the scalar product) is a way to multiply two 
 
 ---
 
-### 📏 3. Vector Norms
+### 3. Vector Norms
 
 #Norm
 
@@ -87,7 +87,7 @@ $$\|\mathbf{a}\| = \sqrt{\sum_{i=1}^{n} a_i^2} = \sqrt{\mathbf{a} \cdot \mathbf{
     
     $$\|\mathbf{a} + \mathbf{b}\| \leq \|\mathbf{a}\| + \|\mathbf{b}\|$$
 
-#### 🆕 Other Common Norms:
+#### Other Common Norms:
 
 - **ℓ₁ norm (Manhattan distance)**:
     
@@ -96,7 +96,7 @@ $$\|\mathbf{a}\| = \sqrt{\sum_{i=1}^{n} a_i^2} = \sqrt{\mathbf{a} \cdot \mathbf{
     
     $$\|\mathbf{a}\|_\infty = \max_i |a_i|$$
 
-#### 🆕 Unit Vectors:
+####  Unit Vectors:
 
 A **unit vector** has norm 1:
 
@@ -104,7 +104,7 @@ $$\mathbf{u} = \frac{\mathbf{a}}{\|\mathbf{a}\|}$$
 
 ---
 
-### 🧲 4. Vector Projection
+###  4. Vector Projection
 
 #Projection #VectorProjection
 

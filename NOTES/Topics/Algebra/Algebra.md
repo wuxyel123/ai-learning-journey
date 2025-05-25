@@ -2,3 +2,5 @@
 # [[Algebra]]
 
 - [[Vectors, Dot products & Norms]]
+- [[Matrices and matrix operation]]
+- [[Determinants & Matrix Inverses]]
