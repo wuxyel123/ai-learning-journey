@@ -4,3 +4,4 @@
 - [[Vectors, Dot products & Norms]]
 - [[Matrices and matrix operation]]
 - [[Determinants & Matrix Inverses]]
+- [[SVD & PCA]]
