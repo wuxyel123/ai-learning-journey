@@ -1,3 +1,3 @@
 [[29-09-2022]]
 # [[Topics]]
-- [[Algebra]]
+- [[Algebra and Calculus]]
