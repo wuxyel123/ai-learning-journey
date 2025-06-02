@@ -7,3 +7,5 @@
 - [[SVD & PCA]]
 - [[Eigenvalues and Eigenvectors]]
 - [[Derivatives]]
+- [[Product rule and Chain rule]]
+- [[Gradients & Partial Derivatives]]
