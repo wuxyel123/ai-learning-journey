@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ec900a55b9e4f52",
+            "id": "aeacfc6715167564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Algebra/Notes/Maxima, Minima & Saddle Points.md",
+                "file": "Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maxima, Minima & Saddle Points"
+              "title": "Topics"
+            }
+          },
+          {
+            "id": "16d85a374567abfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mini-Project – Gradient Descent for Linear Regression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Algebra/Notes/Maxima, Minima & Saddle Points.md",
+                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maxima, Minima & Saddle Points"
+              "title": "Backlinks for Mini-Project – Gradient Descent for Linear Regression"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Algebra/Notes/Maxima, Minima & Saddle Points.md",
+                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Maxima, Minima & Saddle Points"
+              "title": "Outgoing links from Mini-Project – Gradient Descent for Linear Regression"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Algebra/Notes/Maxima, Minima & Saddle Points.md",
+                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Maxima, Minima & Saddle Points"
+              "title": "Outline of Mini-Project – Gradient Descent for Linear Regression"
             }
           }
         ]
@@ -168,16 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ec900a55b9e4f52",
+  "active": "16d85a374567abfe",
   "lastOpenFiles": [
+    "Topics/Algebra/Notes/SVD & PCA.md",
+    "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+    "Topics.md",
     "Topics/Algebra/Algebra and Calculus.md",
+    "Topics/ML & DL/ML & DL.md",
+    "Topics/ML & DL/Notes/Training Deep Models – Challenges & Regularization.md",
+    "Topics/ML & DL/Notes/Gradient Descent in Multiple Dimensions & Regularization Intuition.md",
+    "Topics/ML & DL/Notes/Gradient Descent & HyperParams.md",
     "Topics/Algebra/Notes/Maxima, Minima & Saddle Points.md",
+    "Topics/ML & DL/Notes",
+    "Topics/ML & DL",
     "Topics/Algebra/Notes/Gradients & Partial Derivatives.md",
     "Topics/Algebra/Notes/Product rule and Chain rule.md",
     "Topics/Algebra/Notes/Derivatives.md",
-    "Topics/Untitled",
-    "Topics/Algebra/Notes/SVD & PCA.md",
-    "Topics.md",
     "Topics/Algebra/Notes/Eigenvalues and Eigenvectors.md",
     "Topics/Algebra/Notes/Determinants & Matrix Inverses.md",
     "Topics/Algebra/Notes/Matrices and matrix operation.md",

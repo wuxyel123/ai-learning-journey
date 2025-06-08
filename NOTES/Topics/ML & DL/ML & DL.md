@@ -1,0 +1,3 @@
+- [[Gradient Descent & HyperParams]]
+- [[Gradient Descent in Multiple Dimensions & Regularization Intuition]]
+- [[Training Deep Models – Challenges & Regularization]]

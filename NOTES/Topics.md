@@ -1,3 +1,5 @@
 [[29-09-2022]]
 # [[Topics]]
 - [[Algebra and Calculus]]
+- [[ML & DL]]
+- [[Mini-Project – Gradient Descent for Linear Regression]]
