@@ -1,3 +1,6 @@
 - [[Gradient Descent & HyperParams]]
 - [[Gradient Descent in Multiple Dimensions & Regularization Intuition]]
 - [[Training Deep Models – Challenges & Regularization]]
+- [[Mini-Project – Gradient Descent for Linear Regression]]
+- [[Docker]]
+- [[Linear & Logistic Regression]]

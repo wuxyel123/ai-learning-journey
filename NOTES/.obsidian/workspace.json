@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+                "file": "Topics/ML & DL/ML & DL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mini-Project – Gradient Descent for Linear Regression"
+              "title": "ML & DL"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+                "file": "Topics/ML & DL/ML & DL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mini-Project – Gradient Descent for Linear Regression"
+              "title": "Backlinks for ML & DL"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+                "file": "Topics/ML & DL/ML & DL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mini-Project – Gradient Descent for Linear Regression"
+              "title": "Outgoing links from ML & DL"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+                "file": "Topics/ML & DL/ML & DL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mini-Project – Gradient Descent for Linear Regression"
+              "title": "Outline of ML & DL"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "16d85a374567abfe",
   "lastOpenFiles": [
-    "Topics/Algebra/Notes/SVD & PCA.md",
+    "Topics/ML & DL/Notes/Linear & Logistic Regression.md",
+    "Topics/ML & DL/Notes/Docker.md",
     "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
+    "Topics/Algebra/Notes/SVD & PCA.md",
     "Topics.md",
     "Topics/Algebra/Algebra and Calculus.md",
     "Topics/ML & DL/ML & DL.md",
