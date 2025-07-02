@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/ML & DL/ML & DL.md",
+                "file": "Topics/ML & DL/Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML & DL"
+              "title": "Untitled"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/ML & DL/ML & DL.md",
+                "file": "Topics/ML & DL/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ML & DL"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/ML & DL/ML & DL.md",
+                "file": "Topics/ML & DL/Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ML & DL"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/ML & DL/ML & DL.md",
+                "file": "Topics/ML & DL/Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ML & DL"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -185,13 +185,16 @@
   },
   "active": "16d85a374567abfe",
   "lastOpenFiles": [
+    "Topics/ML & DL/Notes/Decision Trees & Random Forests.md",
+    "Topics/ML & DL/Notes/Untitled.md",
+    "Topics/ML & DL/Notes/KNN & SVM.md",
+    "Topics/ML & DL/ML & DL.md",
     "Topics/ML & DL/Notes/Linear & Logistic Regression.md",
     "Topics/ML & DL/Notes/Docker.md",
     "Topics/ML & DL/Notes/Mini-Project – Gradient Descent for Linear Regression.md",
     "Topics/Algebra/Notes/SVD & PCA.md",
     "Topics.md",
     "Topics/Algebra/Algebra and Calculus.md",
-    "Topics/ML & DL/ML & DL.md",
     "Topics/ML & DL/Notes/Training Deep Models – Challenges & Regularization.md",
     "Topics/ML & DL/Notes/Gradient Descent in Multiple Dimensions & Regularization Intuition.md",
     "Topics/ML & DL/Notes/Gradient Descent & HyperParams.md",

@@ -4,3 +4,4 @@
 - [[Mini-Project – Gradient Descent for Linear Regression]]
 - [[Docker]]
 - [[Linear & Logistic Regression]]
+- [[KNN & SVM]]
